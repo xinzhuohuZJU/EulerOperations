@@ -76,9 +76,9 @@ xxx.txt/json
 
 
 ## 运行效果
-！[Figure1](https://raw.githubusercontent.com/xinzhuohuZJU/EulerOperations/master/Fig/Solid1.png)
-！[Figure2](https://raw.githubusercontent.com/xinzhuohuZJU/EulerOperations/master/Fig/Solid2.png)
-！[Figure3](https://raw.githubusercontent.com/xinzhuohuZJU/EulerOperations/master/Fig/Solid3.png)
+！[Solid1](Fig/Solid1.png)
+！[Solid2](Fig/Solid2.png)
+！[Solid3](Fig/Solid3.png)
 
 
 
