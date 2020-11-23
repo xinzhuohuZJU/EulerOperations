@@ -76,7 +76,9 @@ xxx.txt/json
 
 
 ## 运行效果
+- 实体带有一个通孔
 ![Solid1](https://raw.githubusercontent.com/xinzhuohuZJU/EulerOperations/master/Fig/Solid1.png)
+- 实体带有多个通孔
 ![Solid2](https://raw.githubusercontent.com/xinzhuohuZJU/EulerOperations/master/Fig/Solid2.png)
 ![Solid3](https://raw.githubusercontent.com/xinzhuohuZJU/EulerOperations/master/Fig/Solid3.png)
 
